@@ -57,7 +57,7 @@
     "common-tags": "^1.8.2",
     "date-fns": "^2.30.0",
     "embla-carousel-react": "^8.0.0-rc17",
-    "esbuild": "0.18.11",
+    "esbuild": "0.25.0",
     "framer-motion": "^10.16.4",
     "github-slugger": "^1.4.0",
     "image-size": "^1.0.0",
