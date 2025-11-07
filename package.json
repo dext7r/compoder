@@ -48,7 +48,7 @@
     "@t3-oss/env-nextjs": "^0.10.1",
     "@tanstack/react-query": "^5.62.7",
     "@tldraw/tldraw": "2.0.0-alpha.17",
-    "ai": "^4.0.18",
+    "ai": "^5.0.52",
     "autosize": "^6.0.1",
     "axios": "^1.7.9",
     "canvas-size": "^1.2.6",
