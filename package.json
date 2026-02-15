@@ -50,7 +50,7 @@
     "@tldraw/tldraw": "2.0.0-alpha.17",
     "ai": "^4.0.18",
     "autosize": "^6.0.1",
-    "axios": "^1.7.9",
+    "axios": "^1.12.0",
     "canvas-size": "^1.2.6",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
