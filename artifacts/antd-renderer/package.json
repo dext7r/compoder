@@ -20,7 +20,7 @@
     "@ant-design/pro-components": "^2.6.30",
     "@ant-design/use-emotion-css": "1.0.4",
     "antd": "^5.10.0",
-    "next": "14.2.6",
+    "next": "14.2.35",
     "react": "^18",
     "react-dom": "^18",
     "styled-components": "^6.1.13",
